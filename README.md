@@ -1,7 +1,7 @@
 # error-log
 
-#Logic  
+# Logic  
 
-#Syntax  
+# Syntax  
 
-#Runtime  
+# Runtime  
